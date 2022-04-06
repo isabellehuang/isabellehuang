@@ -1,5 +1,5 @@
   # about me
-  - finishing my senior year of high school
+  - finishing my senior year of high school + cs50
   - learning more about the world of programming and hardware
   - watermelon sour patch candy enthusiast
   
