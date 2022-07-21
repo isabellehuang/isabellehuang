@@ -1,6 +1,6 @@
   # about me
   - finishing my senior year of high school 
-  - learning more about the world of programming and hardware
+  - currently learning web development
   - watermelon sour patch candy enthusiast
   
 
