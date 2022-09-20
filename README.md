@@ -1,5 +1,5 @@
   # about me
-  - currently learning web development
+  - currently learning c++
   - watermelon sour patch candy enthusiast
   
 
