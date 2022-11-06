@@ -1,6 +1,5 @@
   # about me
-  - currently learning c++
-  - watermelon sour patch candy enthusiast
+  - student?
   
 
   # reach me on other platforms
